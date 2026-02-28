@@ -1,4 +1,2 @@
 # python-image-upscaler
-# Python-upscaler-image
-# Python-upscaler-image
-# Python-upscaler-image
+# al principio usaba pagina web pero luego lo cambie por streamlit
